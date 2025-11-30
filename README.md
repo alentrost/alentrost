@@ -18,6 +18,6 @@ Do sedaj sem se naučil:
 - Osnove Linuxa
 _________________________________________________________________________________  
 
-Za dostop do mojega profila klinite na to poevzavo:
+Za dostop do mojega profila klinite na to povezavo:
 
 [alentrost/profile](https://github.com/alentrost) <--
