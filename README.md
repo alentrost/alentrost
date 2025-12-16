@@ -24,4 +24,4 @@ Za dostop do mojega profila klinite na to povezavo:
 
 Za dostop do mojih socialnih pofilov kliknite na to povezavo:
 
-[Socialni Profili]([https://github.com/alentrost](https://alentrost.github.io/LinkTree/)) <--
+[Socialni-Profili]([https://github.com/alentrost](https://alentrost.github.io/LinkTree/)) <--
