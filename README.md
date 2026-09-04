@@ -1,6 +1,6 @@
 # Predstavitev 
 ## Opis sebe 👋
-Moje ime je Alen Trošt. Šolam se na šolskem centru Nova Gorica in moja izobrazba je tehhnik računalništva in trenutno sem 3.letnik😊.
+Moje ime je Alen Trošt. Šolam se na šolskem centru Nova Gorica in moja izobrazba je tehhnik računalništva in trenutno sem 4.letnik😊.
 Za to področje sem se odločil ker mi je računalništvo zelo všeč.
 
 Do sedaj sem se naučil:  
