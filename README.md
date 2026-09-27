@@ -1,30 +1,25 @@
-# Predstavitev 
-## Opis sebe 👋
-Moje ime je Alen Trošt. Šolam se na šolskem centru Nova Gorica in moja izobrazba je tehhnik računalništva in trenutno sem 4.letnik😊.
-Za to področje sem se odločil ker mi je računalništvo zelo všeč.
+# Alen Trošt
 
-Do sedaj sem se naučil:  
-  
-- Java
-  - osnove
-  - zanke
-  - 1D in 2D tabele
-  - uporaba StringBufferja
-- html in css
-  - ustvarjanja forma
-  - uporaba div-a 
-  - tabele
-  - osnovne funkcije
-- Osnove Linuxa
-_________________________________________________________________________________  
+Final-year Computer Science student at the Technical School in Nova Gorica (Šolski center Nova Gorica), with a strong interest in software and application development.
 
-Za dostop do mojega profila klinite na to povezavo:
+---
 
-[alentrost/profile](https://github.com/alentrost) <--
+### About Me
 
-Za dostop do mojih socialnih pofilov kliknite na to povezavo:
-https://alentrost.github.io/LinkTree/
+- **Education:** 4th year Computer Science student based in Nova Gorica, Slovenia.
+- **Focus:** Building practical software solutions, understanding core software architecture, and developing user-facing applications.
+- **Current Interests:** Deepening my understanding of object-oriented programming, database design, and modern web application development.
 
+---
 
-Za dostop do mojega Porfolia kliknite:
-https://alentrost.github.io/Portfolio/
+### Technical Skills
+
+- **Languages:** Java, SQL, HTML5, CSS3
+- **Core Competencies:** Object-Oriented Programming (OOP), Relational Database Design, Front-End Basics, Application Logic
+
+---
+
+### Connect
+
+- **Email:** alen.trost@gmail.com
+- **Link tree:** https://alentrost.github.io/LinkTree/
